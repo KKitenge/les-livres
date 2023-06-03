@@ -24,8 +24,9 @@ SO THAT I can keep a list of books to purchase
 * [GraphQL](https://graphql.org/)
 
 <br>
+
  ## License
-[MIT](https://opensource.org/license/mit/) License  
+[MIT](https://opensource.org/license/mit/) 
 <br>
 
 ## Author
